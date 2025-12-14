@@ -5,5 +5,7 @@ public class B {
 		// TODO Auto-generated method stub
 		
 		System.out.println("B class");
+		System.out.println("B class in Bob branch");
+
 	}
 }
