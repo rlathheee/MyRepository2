@@ -6,6 +6,8 @@ public class C {
 		// TODO Auto-generated method stub
 		System.out.println("C class");
 		System.out.println("C class in master branch");
+		System.out.println("C file in Alice branch");
+
 
 	}
 
